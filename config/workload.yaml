@@ -9,7 +9,7 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/alexandreroman/dallecool
+      url: https://github.com/robertocolella/dallecool.git
       ref:
         branch: testing
   build:
